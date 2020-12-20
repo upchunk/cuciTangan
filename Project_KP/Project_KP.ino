@@ -1,4 +1,3 @@
-/* Example code for HC-SR04 ultrasonic distance sensor with Arduino. No library required. More info: https://www.makerguides.com */
 #include <TM1637Display.h>
 #include <DHT.h>
 #include <NewPing.h>
